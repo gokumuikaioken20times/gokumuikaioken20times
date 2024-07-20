@@ -16,20 +16,16 @@
 # Community ❤️
 </p>
 <p align="center">
-<a href="https://instagram.com/LazyDeveloperr?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/LazyDeveloper"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://youtube.com/@LazyDeveloperr?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://telegram.me/Cartoon_Carnival"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
-[![Stats](https://github-readme-stats.vercel.app/api?username=LazyDeveloperr&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/LazyDeveloperr/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LazyDeveloperr&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyDeveloperr&layout=compact&theme=tokyonight" align="center">
+[![Stats](https://github-readme-stats.vercel.app/api?username=gokumuikaioken20times&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/gokumuikaioken20times/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gokumuikaioken20times&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokumuikaioken20times&layout=compact&theme=tokyonight" align="center">
 
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{LazyDeveloperr}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{gokumuikaioken20times}/count.svg)
 
-
-## YouTube 
-<a href="https://youtube.com/@LazyDeveloperr"> <img src="https://img.shields.io/youtube/channel/subscribers/UCY-iDra0x2hdd9PdHKcZkRw?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 ## Streak : 1 🔥
